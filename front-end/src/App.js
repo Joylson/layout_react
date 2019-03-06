@@ -27,7 +27,7 @@ class App extends Component {
         </div>
         <div className="row aling-tex about" id="sobre">
           <h2>Sobre</h2>
-          <p>com 20 anos cursando Analise e desenvolvimento de sistema na Fatec Dr. Thomas Novelino.
+          <p>Com 20 anos cursando Analise e desenvolvimento de sistema na Fatec Dr. Thomas Novelino.
             Possuo diploma tecnico de Informatica cursado na ETEC Dr. Júlio Cardoso maior conhecimento
             em backend e grande interesse e em Data Science. Atuamente trabalhando na empressa Eddydate
             com desenvolvimento em Java.</p>
@@ -40,7 +40,7 @@ class App extends Component {
             </div>
             <div className="col-md-6 aling-tex">
               <h2>PHP</h2>
-              <p>Laravel, Wordpress</p>
+              <p>Laravel, Wordpress.</p>
             </div>
           </div>
           <div className="row">
